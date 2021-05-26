@@ -1,16 +1,36 @@
 # introapp
+Project: Building Portfolio- Flutter Learning Series
 
-A new Flutter project.
+## Description
+This is Introduction app as part of flutter learnings
 
-## Getting Started
+## home page
+Must have:
+1. A Profile image
+2. Name and Title
+3. phone and email
 
-This project is a starting point for a Flutter application.
+# UX
 
-A few resources to get you started if this is your first Flutter project:
+## Strategy
+My goal in design was to make it easy to visualize and understand about me.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Scope
+For users, I wanted to provide basic details about me.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+1. Flutter
+2. Dart
+3. Material Design
+
+## Testing
+
+Achieved the intended outcome of providing them with my info.
+
+# Run On Your Machine
+To run locally you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/Gumparthypavankumar/Flutter_Portfolio.git into your terminal. 
+
+# checkout into introapp folder to execute following commands
+1. flutter run -d chrome to run it on web browser
+
+2. flutter run to run on emulator
