@@ -37,3 +37,6 @@ To run locally you can clone this repository directly into the editor of your ch
 
 ## Credits
 I am inspired By Babbar Code Help flutter Series, Content and Code is written by me.
+My sincere Thanks to Nishit for creating this series
+You can also checkout this series at:
+https://www.youtube.com/watch?v=9u0Mz-YnQTE&list=PLDzeHZWIZsTo3Cs115GXkot28i406511Y
