@@ -34,3 +34,6 @@ To run locally you can clone this repository directly into the editor of your ch
 1. flutter run -d chrome to run it on web browser
 
 2. flutter run to run on emulator
+
+## Credits
+I am inspired By Babbar Code Help flutter Series, Content and Code is written by me.
